@@ -23,3 +23,5 @@ store = Store.create(
   mens_apparel: true,
   womens_apparel: false
 )
+
+puts Store.count
